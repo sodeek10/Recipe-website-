@@ -21,7 +21,7 @@
   flex-direction: column;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 480px) {
   .card {
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@
     width: 100%;
   }
 }
-@media (min-width: 768px) {
+@media (max-width: 480px) {
   .banner {
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@
     width: 100%;
   }
 }
-@media (min-width: 768px) {
+@media (max-width: 480px) {
   .footer {
     display: flex;
     justify-content: center;
@@ -45,7 +45,7 @@
     width: 100%;
   }
 }
-@media (min-width: 768px) {
+@media (max-width: 480px) {
   .navbar {
     display: flex;
     justify-content: center;
@@ -53,11 +53,11 @@
     width: 100%;
   }
 }
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .rated {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
   }
-}
+} */
