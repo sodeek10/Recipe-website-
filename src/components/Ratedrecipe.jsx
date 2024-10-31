@@ -17,7 +17,7 @@ const RatedRecipe = () => {
   const arr = Array(3).fill(null);
 
   return (
-    <section className="py-[77px]">
+    <section className="rated py-[77px]">
       <h2 className="text-center text-[38px] font-bold ">Top Rated Recipes </h2>
       <div className="flex justify-between gap-2 mt-[58px]">
         {isPending &&

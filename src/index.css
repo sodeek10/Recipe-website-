@@ -23,40 +23,48 @@
 @media (min-width: 768px) {
   .banner {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 70%;
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%;
   }
 }
 @media (min-width: 768px) {
   .card {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 70%;
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%;
   }
 }
 @media (min-width: 768px) {
   .banner {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 70%;
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%;
   }
 }
 @media (min-width: 768px) {
   .footer {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 70%;
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%;
   }
 }
 @media (min-width: 768px) {
   .navbar {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 70%;
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  .rated {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%;
   }
 }
