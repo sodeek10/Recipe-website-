@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <footer className="footer bg-base-100 py-[36px] px-[77px] text-[var(--neutral-600)] bg-yellow-400">
+    <footer className="footer bg-base-100  px-[77px] text-[var(--neutral-600)] bg-yellow-400">
       <div className="flex gap-x-[270px] items-center">
         <div className="flex gap-x-[16px] items-center">
           <img src="/Ico.png" alt="ico" />

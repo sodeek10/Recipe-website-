@@ -1,8 +1,6 @@
 const Banner = ({ img = "banner.jpg", children }) => {
   return (
-    <section
-      className={`banner bg-black py-[133px] bg-[url(banner.jpg)] bg-cover`}
-    >
+    <section className={`banner bg-black bg-[url(banner.jpg)] bg-cover`}>
       <span className="block font-bold text-[40px] text-white text-center">
         {children}
       </span>

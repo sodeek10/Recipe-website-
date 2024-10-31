@@ -11,7 +11,7 @@ const Navbar = () => {
     });
   };
   return (
-    <div className="navbar px-[77px] py-8">
+    <div className="navbar px-[77px] ">
       <nav className="flex items-center justify-between">
         <Link to="/" className="flex gap-3 items-center">
           <img src="./Ico.png" alt="" />
